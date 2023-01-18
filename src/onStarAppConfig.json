@@ -4,5 +4,5 @@
   "optionalClientScope": "",
   "requiredClientScope": "onstar gmoc user_trailer user msso priv",
   "serviceUrl": "https://api.gm.com",
-  "userAgent": "Mozilla/5.0 (Linux; U; Android 10; en-US; Google Pixel 6 Build/PI)"
+  "userAgent": "FBAndroidSDK 7.1.0"
 }
