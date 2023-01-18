@@ -28,12 +28,12 @@ function __awaiter(thisArg, _arguments, P, generator) {
     });
 }
 
-var appId = "OMB_CVY_AND_5V1";
+var appId = "OMB_GMC_AND_5V1";
 var appSecret = "o7sHRuFCqxAvsUNwbgPRvYu8h85RBJdhih8u";
 var optionalClientScope = "";
 var requiredClientScope = "onstar gmoc user_trailer user priv";
 var serviceUrl = "https://api.gm.com";
-var userAgent = "Mozilla/5.0 (Linux; U; Android 9; en-US; Google Pixel 2 Build/PI)";
+var userAgent = "Mozilla/5.0 (Linux; U; Android 10; en-US; Google Pixel 6 Build/PI)";
 var onStarAppConfig = {
 	appId: appId,
 	appSecret: appSecret,
