@@ -1,5 +1,5 @@
 {
-  "appId": "OMB_CVY_AND_5V1",
+  "appId": "OMB_GMC_AND_5V1",
   "appSecret": "o7sHRuFCqxAvsUNwbgPRvYu8h85RBJdhih8u",
   "optionalClientScope": "",
   "requiredClientScope": "onstar gmoc user_trailer user priv",
